@@ -1,0 +1,110 @@
+body{
+    background-color: #2FCCAA;
+
+}
+a {
+    color: red;
+    font-size: 20px;
+    text-decoration: none;
+}
+a:hover{
+    color:green;
+    background-color: blueviolet;
+}
+
+.header {
+    position: absolute;
+    border: 1px solid none;
+    left:3%;
+    padding-left: 5px;
+
+}
+.word{
+    font-size: 90px;
+    color: white;
+
+
+}
+
+.field{
+    position: absolute;
+    width: 20%;
+    height: 500px;
+    top:10%;
+    margin-left: 33%;
+    padding-left: 5%;
+    padding-top: 20px;
+    border-radius: 70px;
+
+    background-color: beige;
+
+}
+
+
+
+
+
+
+
+.input{
+    font-size: 20px;
+    width: 70%;
+    height: 30px;
+    padding-left: 15px;
+    border-radius: 70px;
+    border-color: aqua;
+    border: 2px solid;
+    background-color: none;
+    outline: none;
+
+}
+.blockbutton{
+    position: absolute;
+
+    padding-top: 10%;
+    padding-left: 10px;
+
+}
+.block{
+
+  padding-top: 18%;
+    padding-left: 10px;
+
+}
+.button{
+    position: absolute;
+    width: 100px;
+    margin-left: 30%;
+    border: none;
+    border-radius: 10px;
+    background-color: forestgreen;
+}
+.button-clear{
+    position: absolute;
+    margin-left: 20px;
+    margin-right: 30%;
+    margin-bottom: 5px;
+    border-radius: 51px
+
+}
+.textInput{
+    font-family: "Comic Sans MS";
+    font-size: 15px;
+}
+.blockregis{
+    width: 55%;
+    height: 170px;
+    position: absolute;
+    top: 0%;
+    margin-left: 82%;
+    border: none;
+    border-radius: 30px;
+    padding-top: 15px;
+    padding-left: 5%;
+    background-color: beige;
+
+}
+.checkbox:hover{
+    transform: scale(1.6);
+}
+
